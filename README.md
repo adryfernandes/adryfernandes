@@ -6,14 +6,14 @@
 
 <p>🛑 Esse é meu perfil principal, o anterior eu perdi o acesso devido a um erro com o two factor. Se quiser vê-lo acesse aqui <a href="https://github.com/adryanefernandes">adryanefernandes</a></p>
 
-<br />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adryfernandes&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryfernandes&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+
+<br /><br />
 
 <h2>Tecnologias 👩‍💻</h2>
 
@@ -46,5 +46,10 @@
   <li>Docker, Git, Linux.</li>
 </ul>
 
+<br />
 
-
+<h2>Contatos</h2>
+<div> 
+  <a href = "mailto:edryfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adryane-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
